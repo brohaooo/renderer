@@ -76,7 +76,7 @@ renderer
 * modify diffuse intensity: 8
 * modify specular intensity: 9
 * switch to different scenes: ctrl+1/ctrl+2
-
+* reset position: r
 
 ## Reference
 
