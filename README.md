@@ -7,9 +7,9 @@ To better understand the traditional render pipeline, I referred to SunXLei's im
 ### Blinn-Phong Shading
 
 
-<img src="image/mebius.png" width="410" >
+<img src="renderer/image/mebius.png" width="410" >
 
-<img src="image/triangle.png" width="410">
+<img src="renderer/image/triangle.png" width="410">
 
 
 ## Main Features
